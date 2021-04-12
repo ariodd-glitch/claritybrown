@@ -1,7 +1,4 @@
-body {
-    font-family: 'Italiana', serif !important;
-}
-p, h1, h2, ul, ol, figure, li {
+body, p, h1, h2, ul, ol, figure, li {
     font-family: 'Italiana', serif !important;
 }
 .media-title .tab-header .search-group.template4 .item {
