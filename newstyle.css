@@ -2,7 +2,7 @@ body, p, h1, h2, ul, ol, figure, li {
     font-family: 'Lato', sans-serif !important;
 }
 .media-title .tab-header .search-group.template4 .item {
-    font-family: 'Italiana', serif !important;
+    font-family: 'Lato', sans-serif !important;   
 }
 .search-group.template4 {
     margin-top:20px; width:100%;color:white;
@@ -22,10 +22,10 @@ body, p, h1, h2, ul, ol, figure, li {
 .md-hero.template4 .media-content .title-text .media-title {
     word-break: break-word;text-shadow:0 0px 0px rgba(0,0,0,0.39);
     line-height: 1.36;
-    font-family: 'Italiana', serif !important;
+    font-family: 'Lato', sans-serif !important;
 }
 .md-header.template7 .header-container .header-bg {
-    font-family: 'Italiana', serif !important;
+    font-family: 'Lato', sans-serif !important;
     position: absolute;
     left: 0;
     top: 0;
@@ -56,7 +56,7 @@ body, p, h1, h2, ul, ol, figure, li {
     color: #000 !important;
 }
 .media-info {
-    font-family: 'Italiana', serif !important;
+    font-family: 'Lato', sans-serif !important;
 }
 .co-name {font-size: 10px !important;
     text-align: right;
