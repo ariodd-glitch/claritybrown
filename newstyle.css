@@ -22,6 +22,7 @@ body, p, h1, h2, ul, ol, figure, li {
 .md-hero.template4 .media-content .title-text .media-title {
     word-break: break-word;text-shadow:0 0px 0px rgba(0,0,0,0.39);
     line-height: 1.36;
+    font-family: 'Italiana', serif !important;
 }
 .md-header.template7 .header-container .header-bg {
     position: absolute;
