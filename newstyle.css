@@ -1,7 +1,7 @@
-body, ul, ol, figure, li {
+body, p {
     font-family: 'Lato', sans-serif !important;
 }
-p, h1, h2 {
+ul, ol, figure, li, h1, h2 {
     font-family: 'Italiana', serif !important;
 }
 .media-title .tab-header .search-group.template4 .item {
