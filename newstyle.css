@@ -80,7 +80,7 @@ body, p, h1, h2, ul, ol, figure, li {
     padding-bottom: 0px; padding-top: 50px;
 }
 .md-hero .template4 .banner-with-search-group .single-picture {
-    margin-bottom: -55px;
+    margin-bottom: -55px !important;
 }
 .md-header.template7 .header-container .right-menu .more .icon-more {
     padding: 50px 0 0 10px;
