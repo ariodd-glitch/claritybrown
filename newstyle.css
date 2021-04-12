@@ -55,6 +55,9 @@ body, p, h1, h2, ul, ol, figure, li {
     position: relative;
     color: #000 !important;
 }
+.media-info {
+    font-family: 'Italiana', serif !important;
+}
 .co-name {font-size: 10px !important;
     text-align: right;
     width: 220px;
