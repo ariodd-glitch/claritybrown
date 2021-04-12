@@ -76,7 +76,12 @@ body, p, h1, h2, ul, ol, figure, li {
 .md-header.template7 .header-container .left-menu > .menu-item, .md-header.template7 .header-container .right-menu > .menu-item:not(:first-child) {
     margin: 60px 0 0 30px;
 }
-.head-account {padding-bottom: 0px; padding-top: 50px;}
+.head-account {
+    padding-bottom: 0px; padding-top: 50px;
+}
+.md-hero .template4 .banner-with-search-group {
+    margin-bottom: -55px;
+}
 .md-header.template7 .header-container .right-menu .more .icon-more {
     padding: 50px 0 0 10px;
     font-size: 16px;
