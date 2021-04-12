@@ -28,6 +28,7 @@ p, h1, h2, ul, ol, figure, li {
     font-family: 'Italiana', serif !important;
 }
 .md-header.template7 .header-container .header-bg {
+    font-family: 'Italiana', serif !important;
     position: absolute;
     left: 0;
     top: 0;
@@ -45,7 +46,8 @@ p, h1, h2, ul, ol, figure, li {
     display: flex;
     align-items: center;
     padding: 0 150px;
-    background-color: #AF7F57;}
+    background-color: #AF7F57;
+}
 .md-sell-banner.fashion .media-content {
     width: 1000px;
     max-width: calc(100% - 80px);
