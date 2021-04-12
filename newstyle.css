@@ -1,8 +1,5 @@
-body, p {
+body, p, h1, h2, ul, ol, figure, li {
     font-family: 'Lato', sans-serif !important;
-}
-ul, ol, figure, li, h1, h2 {
-    font-family: 'Italiana', serif !important;
 }
 .media-title .tab-header .search-group.template4 .item {
     font-family: 'Italiana', serif !important;
