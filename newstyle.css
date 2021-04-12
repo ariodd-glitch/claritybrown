@@ -79,7 +79,7 @@ body, p, h1, h2, ul, ol, figure, li {
 .head-account {
     padding-bottom: 0px; padding-top: 50px;
 }
-.md-hero .template4 .banner-with-search-group .single-picture {
+.md-hero.template4 .banner-with-search-group {
     margin-bottom: -55px !important;
 }
 .md-header.template7 .header-container .right-menu .more .icon-more {
