@@ -1,0 +1,58 @@
+body, p, h1, h2, ul, ol, figure, li {
+    font-family: 'Lato', sans-serif !important;}
+.media-title .tab-header .search-group.template4 .item {font-family: 'Lato', sans-serif !important;}
+.search-group.template4 {margin-top:20px; width:100%;color:white;
+    background-color:#363636;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.8), 0 6px 20px;  padding:30px}
+.md-footer.fashion .bottom-content .bot-right-content .mls-declaimer-container {
+    color: #ccc;}
+.md-footer.fashion .bottom-content .bot-right-content .bot-item.copyright, .md-footer.fashion .bottom-content .bot-right-content .bot-item.no-mls-disclaimer {
+    color: #ccc;}
+.md-header.template7.transparent .header-container .header-bg {background: #363636 !important;}
+.md-hero.template4 .media-content .title-text .media-title {
+    word-break: break-word;text-shadow: 0 0px 0px rgba(0,0,0,0.39); line-height: 1.36;
+}
+.md-header.template7 .header-container .header-bg {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background: #333a56;
+    z-index: -1;
+    opacity: 1;
+}
+.md-sell-banner.fashion .sell-agent {
+    position: relative; z-index: 1; width: 100%; display: flex; align-items: center; padding: 0 150px; background-color: #AF7F57;}
+.md-sell-banner.fashion .media-content {
+    width: 1000px;
+    max-width: calc(100% - 80px);
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    color: #000 !important;
+}
+.co-name {font-size: 10px !important; text-align: right; width: 220px; float: right;}
+.md-footer.fashion .top-content .top-right-content .menu-content .main-menu {
+    display: flex;
+    flex-wrap: nowrap !important;
+    padding-top: 30px;
+    margin-bottom: -15px;
+}
+.layer-mask {
+    background-color: rgba(57, 57, 57, 0) !important; opacity: 1;}
+.md-header.template7 .header-container .left-menu > .menu-item, .md-header.template7 .header-container .right-menu > .menu-item:not(:first-child) {
+    margin: 60px 0 0 30px;
+}
+.head-account {padding-bottom: 0px; padding-top: 50px;}
+.md-header.template7 .header-container .right-menu .more .icon-more {padding: 50px 0 0 10px; font-size: 16px; line-height: 1; vertical-align: middle;}
+.md-header.template7 .header-container .head-account > .menu-item.item-login, .md-header.template7 .header-container .head-account > .menu-item.item-regist { 
+    align-self: center; cursor: pointer; padding: 0px; border-style: solid; border-width: 0; text-transform: uppercase; min-width: 74px; text-align: center; padding: 5px 10px; border: solid 1px;  
+} 
+.site-logo {height: 3em;  margin-bottom: 5px;}
+.md-footer.fashion .bottom-content .bot-left-content .share-item .iconfont {font-size: 20px; color: #E4E4E4;}
+.share-links {float: right; padding-right: 25px;}
+.company-name {font-size: 14px !important; font-weight: bold;}
