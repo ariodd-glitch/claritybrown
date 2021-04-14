@@ -10,7 +10,7 @@ body, p, h1, h2, ul, ol, figure, li {
 .md-footer.fashion .bottom-content .bot-right-content .mls-declaimer-container {
     color: #ccc;
 }
-.md-footer.fashion .bottom-content .bot-right-content .bot-item.copyright, .md-footer.fashion .bottom-content .bot-right-content .bot-item.no-mls-disclaimer {
+.md-footer.fashion .bottom-content .bot-right-content .bot-item.copyright {
     color: #ccc;
 }
 .md-header.template7.transparent .header-container .header-bg {
@@ -115,5 +115,8 @@ body, p, h1, h2, ul, ol, figure, li {
     font-size: 14px !important;
     font-weight: bold;
 }
-
+.top-content {
+    display: block;
+    padding: 0 0 0 0 !important;
+}
    
