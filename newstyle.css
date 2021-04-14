@@ -115,7 +115,7 @@ body, p, h1, h2, ul, ol, figure, li {
     font-size: 14px !important;
     font-weight: bold;
 }
-.top-content {
+.md-footer.fashion .top-content {
     display: block;
     padding: 0 0 0 0 !important;
 }
