@@ -97,19 +97,22 @@ body, p, h1, h2, ul, ol, figure, li {
     padding: 5px 10px;
     border: solid 1px;  
 } 
-.site-logo {
+.md-footer.fashion .top-content .top-left-content .site-logo {
     height: 3em;
     margin-bottom: 5px;
     float: right;
 }
 .md-footer.fashion .bottom-content .bot-left-content .share-item .iconfont {
     font-size: 20px;
-    color: #E4E4E4;}
+    color: #E4E4E4;
+}
 .share-links {
     float: right;
-    padding-right: 25px;}
+    padding-right: 25px;
+}
 .company-name {
     font-size: 14px !important;
-    font-weight: bold;}
+    font-weight: bold;
+}
 
    
