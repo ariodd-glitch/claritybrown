@@ -109,6 +109,7 @@ body, p, h1, h2, ul, ol, figure, li {
 .share-links {
     float: right;
     padding-right: 25px;
+    padding-top:25px;
 }
 .company-name {
     font-size: 14px !important;
