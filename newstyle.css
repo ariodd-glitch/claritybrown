@@ -100,7 +100,7 @@ body, p, h1, h2, ul, ol, figure, li {
 .md-footer.fashion .top-content .top-left-content .site-logo {
     height: 3em;
     margin-bottom: 5px;
-    float: right;
+    float: right !important;
 }
 .md-footer.fashion .bottom-content .bot-left-content .share-item .iconfont {
     font-size: 20px;
